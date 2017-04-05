@@ -1,0 +1,20 @@
+---
+title: "README"
+author: "Przemysław Biecek, Krzysztof Słomczyński, Konrad Więcko"
+date: "April 6, 2017"
+output: html_document
+---
+
+# Repo's structure
+
+ - [`pkg`](https://github.com/KWiecko/pracuj-final-mockup/tree/master/pkg) folder contains functions from `pracuj` package,
+ 
+ - [`ml`](https://github.com/KWiecko/pracuj-final-mockup/tree/master/ml) folder contains project's summary along with data and plots. It will be updated,
+ 
+ - [`scripts`](https://github.com/KWiecko/pracuj-final-mockup/tree/master/scripts) folder contains:
+ 
+    - [`harvester`](https://github.com/KWiecko/pracuj-final-mockup/tree/master/scripts/harvester) folder which contains resources for live scraper, filter and scorer,
+    
+    - [`ml_codes`](https://github.com/KWiecko/pracuj-final-mockup/tree/master/scripts/ml_codes) contains some of the scripts used for ML activities. Although the codes are robust and quite chaotic they were excluded from `robust_coding` folder,
+    
+    - [`robust_coding`](https://github.com/KWiecko/pracuj-final-mockup/tree/master/scripts/robust_coding) contains all the stuff that was written along the way. It's messy and chaotic - feel free to explore.
